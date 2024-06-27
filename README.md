@@ -1,3 +1,5 @@
+项目来自于黑马程序员redis课程中项目
+视频地址：https://www.bilibili.com/video/BV1cr4y1671t?p=24&vd_source=bef1f44c0725fd1ce28e09b6d45e8635
 ## 实战篇项目导入
 
 ### 1、启动后端项目
